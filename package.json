@@ -1,6 +1,6 @@
 {
   "name": "query-str-es5",
-  "version": "1.1.2",
+  "version": "0.1.0",
   "description": "A tool kit for parsing/generating query strings",
   "main": "dist/index.js",
   "source": "index.js",
